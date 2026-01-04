@@ -15,8 +15,8 @@ HEADERS = {
 }
 
 ARQUIVOS = [
-    "Ticket 350481 - Solicitar cancelamento - EDP ES.xlsx",
-    "Ticket 350481 - Solicitar cancelamento - EDP SP.xlsx"
+    "archive name.xlsx",
+    "archive name2.xlsx"
 ]
 
 COL_CHAVE = "Chave"
@@ -89,3 +89,4 @@ log(f"Sucesso (200): {sucesso}")
 log(f"Falha: {falha}")
 log(f"Fim execução: {datetime.now()}")
 log("\n=== FIM ===")
+
